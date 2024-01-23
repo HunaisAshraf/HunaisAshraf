@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Next JS, Typescript**
 
-- 👨‍💻 All of my projects are available at [https://hunais-portfolio.netlify.app/](https://hunais-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://hunaisashraf.github.io/](https://hunaisashraf.github.io/)
 
 - 📫 How to reach me **hunaisashraf@gmail.com**
 
